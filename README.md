@@ -85,4 +85,4 @@ All rights reserved.
 
 This project is proprietary. No part of this codebase may be copied, distributed, or modified without explicit written permission from the author.
 
-© [Jana Ghoneim] [2024]
+© Jana Ghoneim 2024
