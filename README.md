@@ -24,12 +24,12 @@ pip install numpy
 
 ## How to Run
 
-1. Save the code in a file called `sudoku_solver.py`.
+1. Save the code in a file called `sudoku.py`.
 
 2. Run the script:
 
 ```bash
-python sudoku_solver.py
+python sudoku.py
 ```
 
 The GUI window will open where you can interact with the Sudoku board.
